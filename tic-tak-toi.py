@@ -1,7 +1,7 @@
 # Set up the game board as a list
 board = ["-", "-", "-",
-		"-", "-", "-",
-		"-", "-", "-"]
+	"-", "-", "-",
+	"-", "-", "-"]
 # Define a function to print the game board
 def print_board():
 	print(board[0] + " | " + board[1] + " | " + board[2])
